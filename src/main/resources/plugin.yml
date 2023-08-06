@@ -1,0 +1,5 @@
+name: AFKManager
+version: '${version}'
+main: io.github.gum4.afkmanager.AFKManager
+api-version: '1.20'
+load: STARTUP
