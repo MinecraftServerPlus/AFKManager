@@ -1,0 +1,17 @@
+enabled-detections:
+  chat: true
+  rotate: true
+  move: true
+  attack: true
+  command: true
+  left-click: true
+  right-click: true
+afk-protection:
+  bump: true
+  hurt:
+    by-player: true
+    by-mob: true
+  visible: true
+detecting-seconds:
+  afk: 300
+  kick: 600
